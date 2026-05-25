@@ -1,6 +1,7 @@
 # 🚙 AutoIntel AI | Ford Market Intelligence
 
-![Ford Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png)
+<img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/85a9d3ad-ca27-4ba7-aa78-39d9cef54cfc" />
+
 
 ## 📌 a) Sobre o Projeto
 
@@ -67,7 +68,28 @@ yarn expo start --clear
 
 Substituam os links/indicadores abaixo pelas imagens reais do projeto. Arrastem as imagens para a pasta do repositório ou usem links públicos (Imgur/GitHub):
 - Fluxo Principal: GIF/Vídeo mostrando Home → Pesquisa → Geração do Duelo → Radar
-- Telas: Painel (Home), Matriz de Dados (Pesquisa), Radar (Dashboard), Copiloto, Cofre de Inteligência
+
+Acesso ao vídeo demonstrativo: https://youtu.be/6L_zKpIeUrM
+
+- Telas: Painel (Home)
+<img width="350" height="700" alt="image" src="https://github.com/user-attachments/assets/c83d5e8e-f7c5-4631-b311-929af97fd0b7" />
+
+
+- Matriz de Dados (Pesquisa)
+<img width="350" height="700" alt="image" src="https://github.com/user-attachments/assets/97a9a4ac-8caf-484e-b9b9-c48fe20b07ee" />
+
+
+-  Radar (Dashboard)
+<img width="350" height="700" alt="image" src="https://github.com/user-attachments/assets/272d2482-9572-4963-8b97-c3a1c8735405" />
+
+
+-  Copiloto (IA para dúvidas)
+<img width="350" height="700" alt="image" src="https://github.com/user-attachments/assets/4915c829-35bd-4121-a26e-db9e384f942e" />
+
+
+-  Cofre de Inteligência
+<img width="350" height="700" alt="image" src="https://github.com/user-attachments/assets/7ceb9d6c-62c5-4017-8bc8-b37ae19a046e" />
+
 
 ---
 
